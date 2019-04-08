@@ -1,0 +1,4 @@
+getmac==0.7.0
+netaddr==0.7.19
+netifaces==0.10.9
+scapy==2.4.2
